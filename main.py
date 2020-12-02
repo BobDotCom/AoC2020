@@ -9,5 +9,4 @@ tell the difference.
 """
 from solutions import * # Needed, do not remove
 """ ----- WRITE YOUR CODE BELOW ----- """
-print(total_loaded)
-day1.final()
+print(total_loaded) # You may remove this if desired
