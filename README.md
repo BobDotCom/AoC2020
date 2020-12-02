@@ -1,5 +1,5 @@
 # Advent of Code Solutions
-These are the solutions I came up with for AoC 2020. Feel free to comment if you found a better way to do them.
+These are the solutions I came up with for AoC 2020. Feel free to comment if you found a better way to do them. Will be updated frequently until Dec. 25, 2020.
 ## Warning
 This contains solutions to AoC 2020, if you do not wish to see them, close this window now.
 ## How to use
