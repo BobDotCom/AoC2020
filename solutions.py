@@ -1,3 +1,7 @@
+"""
+This file is used for dynamically loading each of the solutions, and keeping the clutter out of the main.py file
+"""
+
 total_loaded = 0 # used for the count of loaded solutions
 try: # when this errors it will stop
     for i in range(25): # try to import all
