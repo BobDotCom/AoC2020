@@ -9,4 +9,4 @@ tell the difference.
 """
 from solutions import * # Needed, do not remove
 """ ----- WRITE YOUR CODE BELOW ----- """
-print(total_loaded) # You may remove this if desired
+print(f"Loaded {total_loaded} solutions") # You may remove this if desired
